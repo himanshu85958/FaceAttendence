@@ -1,0 +1,18 @@
+{
+    "admin": {
+        "password": "1234",
+        "role": "admin"
+    },
+    "ishita": {
+        "password": "1234",
+        "role": "student"
+    },
+    "raghav": {
+        "password": "",
+        "role": "admin"
+    },
+    "himanshu": {
+        "password": "1234",
+        "role": "student"
+    }
+}
