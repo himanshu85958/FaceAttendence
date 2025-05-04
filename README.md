@@ -2,9 +2,7 @@
 
 This is a Python-based GUI application for managing attendance using facial recognition. It supports role-based login (Admin/Student), secure user management, attendance marking through a webcam, and an easy-to-use modern Tkinter interface.
 
-![Screenshot](./screenshots/main_gui.png) <!-- Replace with your own screenshot if available -->
 
----
 
 ## 🔧 Features
 
@@ -45,7 +43,7 @@ face-recognition-attendance/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/face-recognition-attendance.git
+git clone [https://github.com/himanshu85958/FaceAttendence.git]
 cd face-recognition-attendance
 2. Install dependencies
 Create a virtual environment (recommended):
